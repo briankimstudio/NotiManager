@@ -1,7 +1,7 @@
 /**
  * Telegram credentials
  */
-#define TG_TOKEN   "telegram_token"
+#define TG_TOKEN   "your_telegram_token"
 #define TG_CHAT_ID "telegram_chatid"
 
 /**
